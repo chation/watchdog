@@ -1,0 +1,5 @@
+
+
+2017/07/05 19:37:44 [error] 23506#0: *9021 connect() failed (111: Connection refused) while connecting to upstream, client: 42.198.39.44, server: localhost, request: "GET / HTTP/1.1", upstream: "uwsgi://127.0.0.1:8077", host: "119.23.238.53:8000"
+2017/07/05 19:37:44 [error] 23506#0: *9021 connect() failed (111: Connection refused) while connecting to upstream, client: 42.198.39.44, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "uwsgi://127.0.0.1:8077", host: "119.23.238.53:8000"
+2017/07/05 19:37:44 [error] 23506#0: *9021 connect() failed (111: Connection refused) while connecting to upstream, client: 42.198.39.44, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "uwsgi://127.0.0.1:8077", host: "119.23.238.53:8000"
